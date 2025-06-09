@@ -1,3 +1,4 @@
 ## moje-pierwsze-repo ##
 ** Moje pierwsze repozytorium **
-To jest opis na cele zadania i jego wykonania:
+To jest opis na cele zadania i jego wykonania
+To jest konie dodany celem wykonania zadania:
